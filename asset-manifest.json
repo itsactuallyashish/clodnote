@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clodnote/static/css/main.073c9b0a.css",
+    "main.js": "/clodnote/static/js/main.9347502c.js",
+    "static/js/787.4c026eef.chunk.js": "/clodnote/static/js/787.4c026eef.chunk.js",
+    "index.html": "/clodnote/index.html",
+    "main.073c9b0a.css.map": "/clodnote/static/css/main.073c9b0a.css.map",
+    "main.9347502c.js.map": "/clodnote/static/js/main.9347502c.js.map",
+    "787.4c026eef.chunk.js.map": "/clodnote/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9347502c.js"
+  ]
+}
